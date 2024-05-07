@@ -4,7 +4,7 @@ This guide will walk you through the process of setting up a MySQL database with
 
 ## Prerequisites
 
-- MySQL installed on your system
+- MySQL installed on your system.
 
 ## Steps
 
